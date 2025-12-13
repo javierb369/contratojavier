@@ -1,0 +1,12 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "@types/dotenv": "^6.1.1",
+    "hardhat": "^2.27.2",
+    "hardhat-gas-reporter": "^2.3.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
